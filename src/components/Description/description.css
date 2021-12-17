@@ -1,0 +1,32 @@
+.description{
+    display: flex;
+    direction: column;
+
+    justify-content: space-around;
+    
+
+}
+.namecolor{
+color: rgb(84, 179, 211);
+size: xx-large;
+display: flex;
+justify-content: space-between;
+align-content: space-between;
+flex-wrap: nowrap;
+align-items: center;
+}
+.texte{
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    flex-wrap: nowrap;
+    align-items: center;
+ 
+}
+.image {
+    display: flex;
+    align-items: center;
+    border-radius: 150px;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+}

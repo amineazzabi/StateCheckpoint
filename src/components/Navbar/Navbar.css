@@ -1,0 +1,8 @@
+.container {
+    position:sticky;
+    font-size: 1.2em;
+    display: flex;
+    }
+    a{
+        color:darkgrey !important;
+    }
