@@ -7,7 +7,7 @@ function entete() {
  
     <Container className="row" >
 
-    <p className="col-6">EMNA GHARIANI</p>
+    <p className="col-6">Med Amine Azzabi</p>
 
 
       <a class="col-2" href="/about">About</a>

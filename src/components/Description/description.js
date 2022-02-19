@@ -1,6 +1,6 @@
 import React from 'react'
 import './description.css';
-import photo from './photo.jpg';
+import photo from './Amine.jpg';
 const Description = props =>{
     const StyleObject = { color:"black", textAlign:'center', fontSize:'xxl'}
     return (  

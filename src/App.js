@@ -13,7 +13,7 @@ function App() {
     <div className="App">
       <Navbar/>
       <hr></hr>
-      <Description className="try" name='EMNA'/>
+      <Description className="try" name='Amine'/>
       <hr></hr>
      <div className="project">
       <Project projectNumber="Project 1" photo={Proj1} />
